@@ -84,5 +84,18 @@ package.json -ba a script már így kell hogy kinézzen: / a kér perjel persze 
 //    "build": "npm-run-all build:src build:bs"
 //  },
 
-// futtatása: npm build
+// futtatása: npm run build
 //*/
+
+// kis git
+
+//új branch létrehozása:
+//git branch branc neve
+
+//átlépés az új branchbe:
+//git branch branch neve
+
+//két branch összefésülése -> git merge branch neve
+
+//branch törlése: git branch -d branch neve
+
